@@ -1,0 +1,2 @@
+[config]
+command = cp target/hello-1.0-SNAPSHOT.war ../wwwroot/bin/jetty-*/webapps/ROOT.war
