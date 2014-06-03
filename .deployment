@@ -1,2 +1,2 @@
 [config]
-command = cp %DEPLOYMENT_SOURCE%/hello-1.0-SNAPSHOT.war %DEPLOYMENT_TARGET%/bin/jetty-*/webapps/ROOT.war
+command = cp %DEPLOYMENT_SOURCE%/target/hello-1.0-SNAPSHOT.war %DEPLOYMENT_TARGET%/bin/jetty-*/webapps/ROOT.war
